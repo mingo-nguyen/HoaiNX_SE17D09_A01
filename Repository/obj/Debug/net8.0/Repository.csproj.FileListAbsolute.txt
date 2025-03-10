@@ -1,0 +1,15 @@
+D:\Coding\C#\Assignments\test2\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\Coding\C#\Assignments\test2\Repository\bin\Debug\net8.0\Repository.dll
+D:\Coding\C#\Assignments\test2\Repository\bin\Debug\net8.0\Repository.pdb
+D:\Coding\C#\Assignments\test2\Repository\bin\Debug\net8.0\Domain.dll
+D:\Coding\C#\Assignments\test2\Repository\bin\Debug\net8.0\Domain.pdb
+D:\Coding\C#\Assignments\test2\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\Coding\C#\Assignments\test2\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Assignments\test2\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\Coding\C#\Assignments\test2\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\Coding\C#\Assignments\test2\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Assignments\test2\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\Coding\C#\Assignments\test2\Repository\obj\Debug\net8.0\Repository.dll
+D:\Coding\C#\Assignments\test2\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\Coding\C#\Assignments\test2\Repository\obj\Debug\net8.0\Repository.pdb
+D:\Coding\C#\Assignments\test2\Repository\obj\Debug\net8.0\ref\Repository.dll

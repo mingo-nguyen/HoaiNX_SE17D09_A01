@@ -1,0 +1,14 @@
+D:\Coding\C#\Assignments\test2\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Coding\C#\Assignments\test2\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\Coding\C#\Assignments\test2\Domain\bin\Debug\net8.0\Domain.dll
+D:\Coding\C#\Assignments\test2\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Coding\C#\Assignments\test2\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Coding\C#\Assignments\test2\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\Assignments\test2\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Coding\C#\Assignments\test2\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Coding\C#\Assignments\test2\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Assignments\test2\Domain\obj\Debug\net8.0\Domain.dll
+D:\Coding\C#\Assignments\test2\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Coding\C#\Assignments\test2\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Coding\C#\Assignments\test2\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\Coding\C#\Assignments\test2\Domain\obj\Debug\net8.0\ref\Domain.dll

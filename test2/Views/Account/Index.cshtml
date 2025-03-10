@@ -1,0 +1,35 @@
+﻿@model Domain.SystemAccount
+
+@{
+    ViewData["Title"] = "Account Information";
+}
+
+<h1>Account Information</h1>
+
+<div>
+    <h4>Account Details</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AccountName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AccountName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AccountEmail)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AccountEmail)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AccountRole)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AccountRole)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit">Edit</a>
+</div>

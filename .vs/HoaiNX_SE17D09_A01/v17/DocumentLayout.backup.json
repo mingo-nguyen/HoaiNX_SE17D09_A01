@@ -1,0 +1,767 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\C#\\Assignments\\test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\account\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|d:\\coding\\c#\\assignments\\test2\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|d:\\coding\\c#\\assignments\\test2\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|d:\\coding\\c#\\assignments\\test2\\repository\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|solutionrelative:repository\\inewsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|d:\\coding\\c#\\assignments\\test2\\repository\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|solutionrelative:repository\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\newsarticle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\newsarticle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\newsarticle\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\newsarticle\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|d:\\coding\\c#\\assignments\\test2\\domain\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|solutionrelative:domain\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\newsarticle\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\newsarticle\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\test2.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\test2.csproj|solutionrelative:test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\test2.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\test2.csproj|solutionrelative:test2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|d:\\coding\\c#\\assignments\\test2\\repository\\categoyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|solutionrelative:repository\\categoyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\newsarticle\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\newsarticle\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\newsarticle\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\newsarticle\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|d:\\coding\\c#\\assignments\\test2\\repository\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|solutionrelative:repository\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|d:\\coding\\c#\\assignments\\test2\\repository\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|solutionrelative:repository\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|d:\\coding\\c#\\assignments\\test2\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\test2.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\test2.csproj|solutionrelative:test2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|d:\\coding\\c#\\assignments\\test2\\domain\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|solutionrelative:domain\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|d:\\coding\\c#\\assignments\\test2\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E9A444-885A-4924-83DF-B54FB22CB36E}|Repository\\Repository.csproj|solutionrelative:repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|d:\\coding\\c#\\assignments\\test2\\services\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|solutionrelative:services\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|d:\\coding\\c#\\assignments\\test2\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|d:\\coding\\c#\\assignments\\test2\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|d:\\coding\\c#\\assignments\\test2\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D8E3F2A-E213-4EC9-BF56-49369DC3344E}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|d:\\coding\\c#\\assignments\\test2\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|solutionrelative:domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|d:\\coding\\c#\\assignments\\test2\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\hoainxmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\hoainxmvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\hoainxmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\hoainxmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|d:\\coding\\c#\\assignments\\test2\\domain\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|solutionrelative:domain\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|d:\\coding\\c#\\assignments\\test2\\domain\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5EF0BA-4640-4144-84BB-57BCDF0FB115}|Domain\\Domain.csproj|solutionrelative:domain\\systemaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|d:\\coding\\c#\\assignments\\test2\\test2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15D51542-00A2-40E6-867C-9E007E1B4D2E}|test2\\HoaiNXMVC.csproj|solutionrelative:test2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Account\\Edit.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\Account\\Edit.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Account\\Edit.cshtml",
+              "RelativeToolTip": "test2\\Views\\Account\\Edit.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T07:44:51.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "test2\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T07:44:27.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\TagRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TagRepository.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\TagRepository.cs",
+              "RelativeToolTip": "Repository\\TagRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:14:39.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ITagRepository.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\ITagRepository.cs",
+              "RelativeToolTip": "Repository\\ITagRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:14:25.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\NewsArticle\\Details.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\NewsArticle\\Details.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\NewsArticle\\Details.cshtml",
+              "RelativeToolTip": "test2\\Views\\NewsArticle\\Details.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T06:10:00.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\NewsArticle\\Delete.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\NewsArticle\\Delete.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\NewsArticle\\Delete.cshtml",
+              "RelativeToolTip": "test2\\Views\\NewsArticle\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T06:09:37.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\NewsArticle\\Edit.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\NewsArticle\\Edit.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\NewsArticle\\Edit.cshtml",
+              "RelativeToolTip": "test2\\Views\\NewsArticle\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T06:09:22.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\NewsArticle\\Create.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\NewsArticle\\Create.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\NewsArticle\\Create.cshtml",
+              "RelativeToolTip": "test2\\Views\\NewsArticle\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T06:08:57.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\NewsArticle\\Index.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\NewsArticle\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\NewsArticle\\Index.cshtml",
+              "RelativeToolTip": "test2\\Views\\NewsArticle\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T06:08:36.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsArticleController.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Controllers\\NewsArticleController.cs",
+              "RelativeDocumentMoniker": "test2\\Controllers\\NewsArticleController.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Controllers\\NewsArticleController.cs",
+              "RelativeToolTip": "test2\\Controllers\\NewsArticleController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwB0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:07:03.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomAuthenticationStateProvider.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\CustomAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "test2\\CustomAuthenticationStateProvider.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\CustomAuthenticationStateProvider.cs",
+              "RelativeToolTip": "test2\\CustomAuthenticationStateProvider.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:11:49.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewsArticleRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\NewsArticleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\NewsArticleRepository.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\NewsArticleRepository.cs",
+              "RelativeToolTip": "Repository\\NewsArticleRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:09:42.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INewsArticleRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\INewsArticleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\INewsArticleRepository.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\INewsArticleRepository.cs",
+              "RelativeToolTip": "Repository\\INewsArticleRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:09:13.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NewsArticleService.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Services\\NewsArticleService.cs",
+              "RelativeDocumentMoniker": "Services\\NewsArticleService.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Services\\NewsArticleService.cs",
+              "RelativeToolTip": "Services\\NewsArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T05:08:03.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Domain",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T04:59:26.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HoaiNXMVC",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\HoaiNXMVC.csproj",
+              "RelativeDocumentMoniker": "test2\\HoaiNXMVC.csproj",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\HoaiNXMVC.csproj",
+              "RelativeToolTip": "test2\\HoaiNXMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T04:49:39.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T04:56:39.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T04:56:11.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HoaiNXMVC",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\HoaiNXMVC.csproj",
+              "RelativeDocumentMoniker": "test2\\HoaiNXMVC.csproj",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\HoaiNXMVC.csproj",
+              "RelativeToolTip": "test2\\HoaiNXMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T04:49:47.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "test2\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "test2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T04:11:15.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "test2\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "test2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:14:46.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "test2\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "test2\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T19:12:32.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "test2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:10:49.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "test2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:08:53.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "test2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T18:54:52.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "test2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T18:54:49.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "test2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T18:53:25.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "test2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T18:53:15.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "test2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "test2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T18:52:18.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\Tag.cs",
+              "RelativeDocumentMoniker": "Domain\\Tag.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\Tag.cs",
+              "RelativeToolTip": "Domain\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:40:31.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Category.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\Category.cs",
+              "RelativeToolTip": "Domain\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:39:20.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SystemAccount.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\SystemAccount.cs",
+              "RelativeDocumentMoniker": "Domain\\SystemAccount.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\SystemAccount.cs",
+              "RelativeToolTip": "Domain\\SystemAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:35:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "Domain\\NewsArticle.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\NewsArticle.cs",
+              "RelativeToolTip": "Domain\\NewsArticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:35:33.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FunewsManagementContext.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\FunewsManagementContext.cs",
+              "RelativeDocumentMoniker": "Domain\\FunewsManagementContext.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Domain\\FunewsManagementContext.cs",
+              "RelativeToolTip": "Domain\\FunewsManagementContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:33:43.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Services",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T18:12:35.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "test2\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "test2\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:26:07.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:07:25.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:06:54.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Repository",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T18:04:11.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:04:42.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoyRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\CategoyRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoyRepository.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\Repository\\CategoyRepository.cs",
+              "RelativeToolTip": "Repository\\CategoyRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:03:58.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\appsettings.json",
+              "RelativeDocumentMoniker": "test2\\appsettings.json",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\appsettings.json",
+              "RelativeToolTip": "test2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T17:50:28.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "test2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "test2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:50:19.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Program.cs",
+              "RelativeDocumentMoniker": "test2\\Program.cs",
+              "ToolTip": "D:\\Coding\\C#\\Assignments\\test2\\test2\\Program.cs",
+              "RelativeToolTip": "test2\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:44:01.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
